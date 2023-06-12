@@ -39,3 +39,7 @@ This project presents a resource manager library for a multithreaded application
 This Linux program, called `pvm`, provides memory-related information for a process and the physical memory of the system. The information is retrieved from the /proc virtual file system, which interfaces the kernel for user-space programs. The /proc directory includes various files that provide information about the system state and processes, and includes a sub-directory for each process, offering process-specific information maintained by the kernel.
 
   _Grade:_ **100/100**?
+
+## Examination Materials
+
+This repository also includes questions and solutions for the Midterm, Final, and Quizzes conducted during the course. These materials can be very useful for future students studying for exams or anyone looking to test their understanding of the topics covered.
