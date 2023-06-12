@@ -1,5 +1,5 @@
 # CS342 - Operating Systems
-This repository contains all the assignments and projects completed during the course. The homework assignments introduce and solidify foundational concepts. The projects demonstrate practical application of these concepts through the development of functional programs.
+This repository contains all the assignments, projects, and examination materials completed during the "Operating Systems (CS342)" course at Bilkent University.
 
 ## Homework
 
