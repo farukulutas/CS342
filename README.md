@@ -33,12 +33,12 @@ The program, `mps`, simulates FCFS (first-come first-served), SJF (shortest job 
 ### Project 3: Resource Manager Library
 This project presents a resource manager library for a multithreaded application. The library allows multiple threads to request, use, and release resources during their lifetime.
 
-  _Grade:_ **70/100**?
+  _Grade:_ **70/100**
 
 ### Project 4: Process and System Memory Information
 This Linux program, called `pvm`, provides memory-related information for a process and the physical memory of the system. The information is retrieved from the /proc virtual file system, which interfaces the kernel for user-space programs. The /proc directory includes various files that provide information about the system state and processes, and includes a sub-directory for each process, offering process-specific information maintained by the kernel.
 
-  _Grade:_ **80/100**?
+  _Grade:_ **80/100**
 
 ## Examination Materials
 
